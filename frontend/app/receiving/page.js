@@ -1,4 +1,4 @@
-import { ReceivingCustomerScreen } from "components/screen";
+import ReceivingCustomerScreen from "components/screen/ReceivingCustomer";
 
 export default async function Receiving() {
   return (
